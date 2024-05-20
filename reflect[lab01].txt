@@ -1,0 +1,9 @@
+LAB 01 REFLECTIONS
+
+While Python is a robust and versatile language, there are certain aspects that I found less favorable:
+
+Performance: As an interpreted language, Python tends to be slower than compiled languages like C/C++. This can be a notable disadvantage for tasks demanding high performance.
+
+Dynamic Typing: Although dynamic typing enhances Python's flexibility, it can result in runtime errors that would typically be caught during compilation in statically typed languages like C/C++. This can make the debugging process more difficult.
+
+Indentation Sensitivity: Python's use of indentation to define code blocks can sometimes cause issues that are difficult to detect, particularly if there is an inadvertent mix of tabs and spaces.
